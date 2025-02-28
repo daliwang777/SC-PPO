@@ -1,0 +1,1 @@
+accelerate launch --config_file=/share/project/daliwang/daliwang/RL/config/deepspeed3.yaml --num_processes 8 /share/project/daliwang/daliwang/RL/lorappo/policy/lora_policy.py --all_arguments_of_the_script

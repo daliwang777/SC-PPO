@@ -1,0 +1,3 @@
+{"node":["GPUMemoryBw", "NetworkP2pBw", "NetworkTrainllama", "GPUComputeFP", "NetworkAllreduceBw", 
+"StopNetwork", "StopVendor", "StopServer", "StopSuccess", "BusAllreduceBw", "HostD2hBw", 
+"NetworkTrainllm", "HostH2dBw", "StopJob"]}
